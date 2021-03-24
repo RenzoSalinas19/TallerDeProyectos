@@ -1,0 +1,81 @@
+body{
+	background-color: white;
+}
+
+.Titulo{
+	color: white;
+	font-size: 30px;
+	padding-left: 37%;
+}
+
+.Titulos{
+	color: white;
+	font-size: 30px;
+	padding-left: 41%;
+}
+
+.imgP{
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.img{
+	height: 390px;
+}
+
+.img1{
+	height: 230px;
+	position: absolute;right: 47%;
+	position: absolute;bottom: 60%;
+}
+
+.imga{
+	height: 390px;
+	position: absolute;bottom: 12%;
+}
+
+.img2{
+	height: 390px;
+	position: absolute;bottom: 12%;
+	position: absolute;right: 15%;
+	transform: scaleX(-1);
+}
+
+.img12{
+	height: 230px;
+	position: absolute;right: 27%;
+	position: absolute;bottom: 40%;
+	transform: scaleX(-1);
+}
+
+.imga1{
+	height: 390px;
+	position: absolute;bottom: 12%;
+	position: absolute;right: 20%;
+	transform: scaleX(-1);
+}
+
+.img1a1{
+	height: 230px;
+	position: absolute;right: 32%;
+	position: absolute;bottom: 40%;
+	transform: scaleX(-1);
+}
+
+.img1a{
+	height: 230px;
+	position: absolute;right: 47%;
+	position: absolute;bottom: 40%;
+}
+
+.button1{
+	position: absolute;bottom: 48%;
+	position: absolute;right: 45.5%;
+}
+
+.button1a{
+	position: absolute;bottom: 20%;
+	position: absolute;right: 45.5%;
+}
+
